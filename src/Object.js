@@ -118,4 +118,10 @@ function fabonacciNumber(index)
 console.log(fabonacciNumber(1));//1, 1, 2, 3, 5, 8
 
 
+function fabonacciNumberEnd(index)
+{
+    
+}
+
+
 
